@@ -1,5 +1,5 @@
-# Python Workshop
+# Python for Everyone!
 
+Welcome to our Python workshop!
 
-If you don't have jupyter notebook installed, run `pip3 install jupyter` on your command line. Type `jupyter-notebook` and hit enter to start the workshop.
-
+If you're new to programming, check out our [Introduction)(Intro) section.
