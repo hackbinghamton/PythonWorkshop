@@ -4,4 +4,4 @@ Welcome to the advanced section! This section will cover
 2. [Neat tricks to make your Python code run faster](https://colab.research.google.com/github/HackBinghamton/PythonWorkshop/blob/master/Advanced/OptimizingYourPythonPrograms.ipynb)
 3. [Intro to NumPy and Pandas](https://colab.research.google.com/github/HackBinghamton/PythonWorkshop/blob/master/Advanced/IntroToNumPy&Pandas.ipynb)
 
-{% TODO: 4. Small nuances between common things in Python to save you from potentially nasty bugs () %}
+<!-- TODO: 4. Small nuances between common things in Python to save you from potentially nasty bugs () -->
