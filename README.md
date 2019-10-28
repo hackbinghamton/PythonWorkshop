@@ -33,6 +33,8 @@ If you have a lot of experience with Python, check out our [Advanced](Advanced) 
 
 Organizers will be floating around the room to work on any of the sections with you, so pair up with a friend and an organizer (or make an organizer your friend) and take a stab at these exercises!
 
+# Feedback
+
 Once you finish up the workshop, please leave us any [feedback](https://forms.gle/wt7YP9aZSS1MFqWAA) you have!
 
-If you attended our Programming for Engineers with SWE workshop on 10/30/19, please fill out [this form](https://forms.gle/xnGeHYRxPXuNsHqz9)
+If you attended our **Programming for Engineers with SWE workshop on 10/30/19**, please fill out [this form](https://forms.gle/xnGeHYRxPXuNsHqz9)!
