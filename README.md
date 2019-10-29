@@ -30,6 +30,7 @@ If you have a lot of experience with Python, check out our [Advanced](Advanced) 
   - [Python Oddities](https://colab.research.google.com/github/HackBinghamton/PythonWorkshop/blob/master/Advanced/PythonOddities.ipynb)
   - [Intro to NumPy and Pandas](https://colab.research.google.com/github/HackBinghamton/PythonWorkshop/blob/master/Advanced/IntroToNumPy&Pandas.ipynb)
   - [Iterators and Generators](https://colab.research.google.com/github/HackBinghamton/PythonWorkshop/blob/master/Advanced/IteratorsAndGenerators.ipynb)
+  - [Regex](https://github.com/HackBinghamton/PythonWorkshop/blob/master/Advanced/Regular%20Expressions.ipynb)
 
 Organizers will be floating around the room to work on any of the sections with you, so pair up with a friend and an organizer (or make an organizer your friend) and take a stab at these exercises!
 
