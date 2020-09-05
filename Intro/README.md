@@ -1,4 +1,8 @@
-Welcome to the introduction section! In this section, you'll cover:
+## Welcome to the Introduction Section
+
+All code blocks must be run on jupyter notebook for the exercises to run properly. Clicking on one of the links below will take you to a copy of the jupyter notebook.
+
+In this section, you'll cover:
 
 1. [Data Types and Variables](https://colab.research.google.com/github/HackBinghamton/PythonWorkshop/blob/master/Intro/DataTypesAndVariables.ipynb)
 2. [Printing and Input](https://colab.research.google.com/github/HackBinghamton/PythonWorkshop/blob/master/Intro/Printing_and_Input.ipynb)
