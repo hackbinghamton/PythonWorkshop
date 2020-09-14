@@ -30,7 +30,7 @@ If you have a lot of experience with Python, check out our [Advanced](Advanced) 
   - [Python Oddities](https://colab.research.google.com/github/HackBinghamton/PythonWorkshop/blob/master/Advanced/PythonOddities.ipynb)
   - [Intro to NumPy and Pandas](https://colab.research.google.com/github/HackBinghamton/PythonWorkshop/blob/master/Advanced/IntroToNumPy&Pandas.ipynb)
   - [Iterators and Generators](https://colab.research.google.com/github/HackBinghamton/PythonWorkshop/blob/master/Advanced/IteratorsAndGenerators.ipynb)
-  - [Regex](https://colab.research.google.com/github/PythonWorkshop/blob/master/Advanced/Regular%20Expressions.ipynb)
+  - [Regex](https://colab.research.google.com/github/HackBinghamton/PythonWorkshop/blob/master/Advanced/Regular%20Expressions.ipynb)
   - [Cython](https://colab.research.google.com/github/HackBinghamton/PythonWorkshop/blob/master/Advanced/IteratorsAndGenerators.ipynb)
 
 
