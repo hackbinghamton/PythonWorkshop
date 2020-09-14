@@ -7,5 +7,5 @@ In this section, you'll cover:
 - [Python Oddities](https://colab.research.google.com/github/HackBinghamton/PythonWorkshop/blob/master/Advanced/PythonOddities.ipynb) - Some useful tricks and fun facts when working with Python!
 - [Intro to NumPy and Pandas](https://colab.research.google.com/github/HackBinghamton/PythonWorkshop/blob/master/Advanced/IntroToNumPy&Pandas.ipynb) - An intro to some powerful data science-oriented libraries!
 - [Iterators and Generators](https://colab.research.google.com/github/HackBinghamton/PythonWorkshop/blob/master/Advanced/IteratorsAndGenerators.ipynb) - Advanced methods for working with lists!
-- [Regular Expressions](https://colab.research.google.com/github/HackBinghamton/PythonWorkshop/blob/master/Advanced/IteratorsAndGenerators.ipynb) - Search for and identify difficult patterns within strings!
-- [Cython](https://colab.research.google.com/github/HackBinghamton/PythonWorkshop/blob/master/Advanced/IteratorsAndGenerators.ipynb) - Make your code faster by integrating with C!
+- [Regular Expressions](https://colab.research.google.com/github/HackBinghamton/PythonWorkshop/blob/master/Advanced/Regular%20Expressions.ipynb) - Search for and identify difficult patterns within strings!
+- [Cython](https://colab.research.google.com/github/HackBinghamton/PythonWorkshop/blob/master/Advanced/Cython.ipynb) - Make your code faster by integrating with C!
