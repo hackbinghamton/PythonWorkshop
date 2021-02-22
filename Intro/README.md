@@ -1,6 +1,6 @@
 # Introductory Python
 
-*Note:* All code blocks must be run on jupyter notebook for the exercises to run properly. Clicking on one of the links below will take you to a copy of the jupyter notebook.
+*Note:* All code blocks must be run on Colab (the website we host the sections on) for the exercises to run properly.
 
 In this section, you'll cover:
 
