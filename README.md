@@ -36,4 +36,4 @@ If you have a lot of experience with Python, check out our [Advanced](Advanced) 
 
 # Feedback
 
-Once you finish up the workshop, please leave us any [feedback](https://forms.gle/mwmxSpJN9GE6pEX57) you have!
+Once you finish up the workshop, please leave us any [feedback](https://forms.gle/65ghrAiRqRgLQPTcA) you have!
