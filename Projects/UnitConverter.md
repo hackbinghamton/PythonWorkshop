@@ -135,8 +135,6 @@ Once you are done with that, go through the project one more time and see if the
 
 # Conclusion
 
----
-
 Are you satisfied with the project? If so, you're done! Congratulations! 
 
 Now you can show this off to your friends and they'll be super jealous at how quickly you can convert liters to milliliters. 
