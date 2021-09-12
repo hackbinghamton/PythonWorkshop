@@ -25,13 +25,11 @@ Before starting this project, you should have an understanding of
 
 Here is a demo of the project we will be creating: 
 
-<video src="/Users/ronlaniado/Downloads/UnitConverterDemo.mov"></video>
+[Unit Converter Demo](./UnitConverterDemo.mov "Unit Converter Demo")
 
 As you can see from the short clip above, the program accepts two **parameters**. It accepts a `choice` and a `value` separated by a space. So the input of `1 30` signifies converting choice 1 (Celsius to Fahrenheit) with a value of 30 (Celsius). The output is then `86.0` (Fahrenheit).
 
 # Project Development
-
----
 
 ## Working Backards
 
