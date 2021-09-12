@@ -2,8 +2,6 @@
 
 # Project Overview
 
----
-
 Welcome to the Unit Converter Project! This project is unlike the tutorials you have been going through thus far. Rather than telling you exactly what to do and how to do it, you'll be creating a project on your own with some small hints and nudges in the right direction. This will allow you to use the skills you have picked up in the previous sections to actually build something! 
 
 If you are new to Python, this will not be so easy. But that's **okay**. This will be tough, but it **will** be worth it in the end. If you are get stuck and can't figure out how to continue, there are many organizers that can assist you. If you are working alone and are completely stuck, you *can* take a look at our finished project [here](https://github.com/HackBinghamton/PythonWorkshop/blob/unit-converter-project/Projects/unit-converter-completed.py), but we recommend you do everything you can on your own before taking a peek at it. 
