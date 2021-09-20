@@ -1,4 +1,4 @@
-# Text-based Aventure Game Project
+# Text-based Adventure Game Project
 
 # Project Overview
 
