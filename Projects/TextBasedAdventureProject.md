@@ -4,7 +4,7 @@
 
 Welcome to the Text-based Adventure Game Project! This project is unlike the tutorials you have been going through thus far. Rather than telling you exactly what to do and how to do it, you'll be creating a project on your own with some small hints and nudges in the right direction. This will allow you to use the skills you have picked up in the previous sections to actually build something! 
 
-You can take a look at the completed project HERE.
+You can take a look at the completed project [HERE](https://github.com/HackBinghamton/PythonWorkshop/blob/text-based-adventure-project/Projects/text-based-adventure.py).
 
 In this project, you will be creating a Game class that tells the user a story that you will create, and then prompt the user to pick the best 'answer'. You will be able to be creative and add as many features as you'd like and as many branches to the story as you would want to. 
 
